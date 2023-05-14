@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/social-media-w3.css/static/css/main.cee40fa3.css",
+    "main.js": "/social-media-w3.css/static/js/main.0ddd99d1.js",
+    "static/js/787.7d0c0ad0.chunk.js": "/social-media-w3.css/static/js/787.7d0c0ad0.chunk.js",
+    "static/media/forest.jpg": "/social-media-w3.css/static/media/forest.14fe5b53959e50691d0f.jpg",
+    "static/media/mountains.jpg": "/social-media-w3.css/static/media/mountains.6acd1c8c891cbbd6edff.jpg",
+    "static/media/nature.jpg": "/social-media-w3.css/static/media/nature.d3d24279c6ca8c8f23a4.jpg",
+    "static/media/snow.jpg": "/social-media-w3.css/static/media/snow.9dc085ddb2814b394376.jpg",
+    "static/media/lights.jpg": "/social-media-w3.css/static/media/lights.84bc44f4e214775d7954.jpg",
+    "index.html": "/social-media-w3.css/index.html",
+    "main.cee40fa3.css.map": "/social-media-w3.css/static/css/main.cee40fa3.css.map",
+    "main.0ddd99d1.js.map": "/social-media-w3.css/static/js/main.0ddd99d1.js.map",
+    "787.7d0c0ad0.chunk.js.map": "/social-media-w3.css/static/js/787.7d0c0ad0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cee40fa3.css",
+    "static/js/main.0ddd99d1.js"
+  ]
+}
